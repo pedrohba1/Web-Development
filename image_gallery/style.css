@@ -1,0 +1,47 @@
+.image1 {
+  background-image: url(image1.jpeg);
+}
+.image2 {
+  background-image: url(image2.jpeg);
+}
+.image3{
+	background-image: url(image3.jpeg);
+}
+.image4{
+	background-image: url(image4.jpeg);
+}
+.image5{
+	background-image: url(image5.jpeg);
+}
+.image6{
+	background-image: url(image6.jpeg);
+}
+.image7{
+	background-image: url(image7.jpeg);
+}
+.image8{
+	background-image: url(image8.jpeg);
+}
+
+
+body{
+  margin-top:70px;
+}
+
+.navbar-brand{
+  color:white;
+}
+
+.nav-link{
+  color:white;
+}
+.navbar-custom{
+  background-color: darkblue;
+}
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 20px;
+}

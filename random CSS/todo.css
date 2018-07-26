@@ -1,0 +1,30 @@
+#special {
+    
+    color: aqua;
+}
+
+
+div {
+
+    color:coral;
+}
+
+#importante {
+    
+    color: red;
+    border: solid;
+    background: orange;   
+}
+
+.marcar {
+    text-decoration: underline;
+    border: solid;
+    background: yellow;
+    
+}
+
+body {
+    background-image :url(/1522409091451.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
