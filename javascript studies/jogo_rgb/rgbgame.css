@@ -1,0 +1,23 @@
+body {
+	background-color: #232323;
+}
+
+h1{
+	color:white;
+
+}
+.squares{
+	width: 30%;
+	background: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+
+#stripe{
+	background: white;
+	text-align: center;
+	height: 30px;
+	color:black;
+}
